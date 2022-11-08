@@ -1,1 +1,50 @@
 
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+    <meta charset='utf-8'>
+    <title>motivação</title>
+
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+ <body>
+    <h1>MOTIVAÇÃO</h1>
+   
+  <!---
+O tÍTULO h1 É O TÍTULO PRINCIPAL DO SEU SITE 
+--->  TEXTO 1 / O que é ?
+
+<p> Motivação é o que faz com que os indivíduos deem o melhor de si, façam o possível para conquistar o que almejam, e muitas vezes, alguns acabam até mesmo “passando por cima” de outras pessoas.
+
+<p> Motivação é um tópico muito estudado pela psicologia, para saber o que faz com que as pessoas se comportem da maneira que fazem, de onde sai a motivação, e o que ocorre quando as pessoas não são motivadas. A motivação é avaliada em certos tratamentos psicológicos em que é imprescindível medir a disposição real que um indivíduo tem para iniciar um tratamento.
+
+<p> A motivação é um elemento essencial para o desenvolvimento do ser humano. Sem motivação é muito mais difícil cumprir algumas tarefas. É muito importante ter motivação para estudar, para fazer exercício físico, para trabalhar, etc.
+
+<p> A motivação pode acontecer através de uma força interior, ou seja, cada pessoa tem a capacidade de se motivar ou desmotivar, também chamada de auto-motivação, ou motivação intrínseca. Há também a motivação extrínseca, que é aquela gerada pelo ambiente que a pessoa vive, o que ocorre na vida dela influencia em sua motivação.
+   
+    <img id = "motivação"  src="download.jpeg">
+   
+   <!---
+Para colocar uma imagem;
+-  precisa adicionar ela como arquivo no github,
+- criar um identificador para ela id="nomedaimagem"
+- usar src para busca da imagem -> src="NOMEDOARQUIVO.JPG"
+--->
+   
+<p> Cognição é a capacidade de processar informações e transformá-las em conhecimento, com base em um conjunto de habilidades mentais e/ou cerebrais como a percepção, a atenção, a associação, a imaginação, o juízo, o raciocínio e a memória.
+
+<p> Essas informações a serem processadas estão disponíveis no meio em que vivemos.
+
+<p> De modo geral, podemos dizer que a cognição humana é a interpretação que o cérebro faz de todas as informações captadas pelos cinco sentidos, e a conversão dessa interpretação para a nossa forma interna de ser.
+
+
+    <p> Nossa missão é: **dá-los força e vontade**</p>
+
+<p> O amor motiva a necessidade de proteção e pode se manifestar de diferentes formas: amor materno ou paterno, amor entre irmãos (fraterno), amor físico, amor platônico, amor à vida, amor pela natureza, amor pelos animais, amor altruísta, amor próprio, e etc.
+
+<p> Etimologicamente, o termo “amor” surgiu a partir do latim “amor”, palavra que tinha justamente o mesmo significado que atualmente: sentimento de afeição, paixão e grande desejo.
+     
+     
+ </body>
+</html>
