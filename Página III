@@ -1,0 +1,42 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+    <meta charset='utf-8'>
+    <title>superação</title>
+
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+ <body>
+     <header>
+          <ul>
+              <li> <a href="index.html"> inicio</a> </li>
+              <li> <a href="página III.html">  </a></li>
+              
+         </ul>
+     </header>
+                  
+    <h1>ANIMAÇÃO</h1>
+   
+  <!---
+O tÍTULO h1 É O TÍTULO PRINCIPAL DO SEU SITE 
+--->  TEXTO 1 / 
+   
+    <img id = "NOMEIMAGEM"  src="download.jpeg">
+   
+   <!---
+Para colocar uma imagem;
+-  precisa adicionar ela como arquivo no github,
+- criar um identificador para ela id="nomedaimagem"
+- usar src para busca da imagem -> src="NOMEDOARQUIVO.JPG"
+--->
+   
+
+    <p> Nossa missão é: **ajuda-los**</p>
+
+
+     
+ </body>
+</html>
